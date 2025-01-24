@@ -9,8 +9,7 @@ Technology used OpenCV, MediaPipe, and Pycaw libraries.
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/yashdha1/Control-Voloume_with-Hand.git
    ```
 
 2. **Install Dependencies**
